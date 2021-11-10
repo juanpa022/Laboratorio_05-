@@ -19,3 +19,11 @@
 
 
 :warning:Crear un repositorio en Github (con README.md).
+:warning:Resolver utilizando el Pequeño Teorema de Fermat. 
+# Implementación
+> Funciones
+- Funcion de MCD  "**MCD**"
+ - como su nombre lo dice este nos ayuda con el maximo como un divisor tambien encontramos un bucle en el cual estas los cambios que tienen para hallar el mcd.
+> main
+
+- Se encuentra nuestro nuestros condicionales en este caso como el problema nos pide el X y si son primos este condicional nos ayuda.
