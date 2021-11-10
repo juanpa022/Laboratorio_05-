@@ -9,7 +9,7 @@
 
 **Grupo:** Ccomp 3-1
 
-> Dado un numero primo p, implementar un programa que permita calcular su raíz primitiva mas pequeña (entre 1 y p − 1)
+> Sea a x ≡ 1 (mod n), implementar un algoritmo para calcular x (el inverso multiplicativo de a, módulo n). El programa debe permitir ingresar el número a y n, luego debe retorna el valor de x (si es que existe). Crear un repositorio en GitHub (con README). 
 
 :boom:  Compilador  :boom:
 
